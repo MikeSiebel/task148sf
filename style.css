@@ -1,0 +1,95 @@
+
+.container {
+    background-color: rgb(243, 217, 161);
+    color: white;
+    width: 400px;
+    opacity: 75%;
+    border-radius: 0%;
+    border: 1px solid black;
+    font-weight: 700;
+    border-radius: 20px;
+    padding: 20px;
+    width: 350px;
+    margin: 100px auto;
+}
+
+.service, .album, .auth {
+    width: 768px;
+    margin: 0 auto 32px;
+    padding: 20px 15px;
+    border-bottom: 2px solid rgb(128, 128, 128);
+    color: #fff;
+    font-size: 17px;
+}
+
+.offer {
+    color: rgba(233, 183, 119, 0.938);
+    font-weight: bold;
+    font-size: larger;
+    text-shadow: 2pt;
+}
+
+.offertop{
+    height: 30px;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #a27b4e;
+    text-align: center;
+}
+
+header {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    height: 515px;
+    background: darkslategray url(./images/1618547400_70-na-dache_pro-p-spa-77.jpg) bottom no-repeat;
+    background-size: cover;
+}
+.htop{
+    height: 360px;
+}
+h1 {
+   
+    color: #fff;
+    font-size: 3rem;
+    font-weight: 200;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.offer {
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+body > section.album > div > img{
+    width: 80%;
+}
+footer {
+    padding-top: 20px;
+    padding-bottom: 60px;
+    text-align: center;
+}
+
+footer .links {
+    margin-bottom: 50px;
+}
+
+footer .links > a {
+    color: darkslategray;
+    padding: 0 25px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.copyright {
+    color: burlywood;
+    font-family: 'Times New Roman', Times, serif;
+}
